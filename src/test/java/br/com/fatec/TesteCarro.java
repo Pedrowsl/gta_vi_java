@@ -6,7 +6,7 @@ import java.util.Collections;
 public class TesteCarro {
     public static void main(String[] args){
         Carro carro1 = new Carro("Grotti Cheetah", 500);
-        Carro carro2 = new Carro("Bravado Bashee", 400);
+        Carro carro2 = new Carro("Bravado Banshee", 400);
         Carro carro3 = new Carro("Dinka Blista", 200);
         Carro carro4 = new Carro("Grotti Cheetah", 500);
         Carro carro5 = new Carro("Pegassi Infernus", 500);
